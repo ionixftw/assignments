@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task4 {
+public class Task04 {
     public static void main(String[] args) {
 	Scanner k = new Scanner(System.in);
 	int count, min, sum, avgCount, totalCount;

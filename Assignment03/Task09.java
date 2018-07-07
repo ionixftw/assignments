@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Task9 {
+public class Task09 {
     public static void main(String[] args) {
 	Scanner scanner = new Scanner(System.in);
 
